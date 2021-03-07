@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background-color: rgb(255, 69, 69);
+}
+
+/* header {
+  max-width: 100%;
+  background-color: grey;
+  padding: 0;
+  text-align: center;
+}
+
+header p {
+  font-size: 350px;
+  margin: 0;
+} */
+
+main {
+  /* max-width: 1000px; */
+}
+
+.pic1 {
+  width: 1000px;
+  margin: auto;
+  margin: 50px auto 50px;
+}
+
+div img {
+  width: 100%;
+  height: auto;
+}
